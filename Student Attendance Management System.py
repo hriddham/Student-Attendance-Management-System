@@ -77,9 +77,6 @@ while True:
                     else:
                         print("Error! Choice a number between 1-2")
 
-        if Roll_no != Students["roll_no"]:
-            print("Roll number not found!")
-
     if Choice == 4:
         print("~~~~~ View Attendance ~~~~~")
 
@@ -110,9 +107,6 @@ while True:
                         print("Total Days:", Total)
                         print("Attendance Percentage:", round(present/Total *100, 2), "%")
                         print("~~~~~~~~~~~~~~~~~~~~~~")
-
-        if Roll_no != Students["roll_no"]:
-                    print("Roll number not found!")
 
     if Choice == 5:
         print("Exiting the program...")
