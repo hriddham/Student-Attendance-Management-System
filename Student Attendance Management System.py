@@ -100,13 +100,10 @@ while True:
 
                     Total = present + absent
 
-                    # if Total == 0:
-                    #     print("Attendance Percentage: 0%")
-
-                    # else:
-                    print("~~~~~~~~~~~~~~~~~~~~~~")
-                    print("Days you were present:", present)
-                    print("Days you were absent:", absent)
+                 else:
+                     print("~~~~~~~~~~~~~~~~~~~~~~")
+                     print("Days you were present:", present)
+                      print("Days you were absent:", absent)
                     print("Total Days:", Total)
                     print("Attendance Percentage:", round(present/Total *100, 2), "%")
                     print("~~~~~~~~~~~~~~~~~~~~~~")
