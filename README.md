@@ -48,7 +48,7 @@ The program keeps running until the user picks Exit.
 
 1. Install Python 3.
 
-2.. Clone the repository.
+2. Clone the repository.
 
 3. Open the project in a Python editor.
 
