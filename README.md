@@ -52,7 +52,7 @@ The program keeps running until the user picks Exit.
 
 3. Open the project in a Python editor.
 
-4. Run the file `student_attendance.py`.
+4. Run the file `Student Attendance Management System.py`.
 
 ## 6. Limitations
 
